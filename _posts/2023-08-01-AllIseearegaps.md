@@ -66,7 +66,7 @@ This is what I suspect we will look like in possession.
 
 Situation 1            |  Situation 2
 :-------------------------:|:-------------------------:
-![](./red-army-recaps/assets/situation_1.jpg)  |  ![](./red-army-recaps/assets/situation_2.jpg)
+![s1](./red-army-recaps/assets/situation_1.jpg)  |  ![s2](./red-army-recaps/assets/situation_2.jpg)
 
 <h2>Final Thoughts</h2>
 This transfer window has proven to be quite underwhelming. We've brought in an injured striker, made a significant goalkeeper acquisition – a move that I'd argue wasn't urgently needed – and secured a number 10 to play as an 8, while Amrabat, who could have been a more fitting option, remains on the sidelines. The midfield seems to be a potential weak point. Mount will need to adjust, and ETH will likely need to adapt his strategies accordingly. It's worth noting that these might not have been ETH's first choices. The absence of a proper number 8 might pose challenges for us this season. Additionally, the thought of selling Maguire and acquiring a right-sided center-back with strong ball-playing abilities is necessary. Rating this window, I'd give it a 5/10, especially when considering what Chelsea has managed to accomplish.
