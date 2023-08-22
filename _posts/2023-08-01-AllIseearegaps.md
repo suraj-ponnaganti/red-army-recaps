@@ -7,4 +7,4 @@ For years, I've remained a devoted supporter of Manchester United, enduring disa
 
 The image below is what I suspect our starting 11 is going to look like. As of writing this article, Amrabat is not yet a united player. There is case to be made for Eriksen starting over Mount. The 2022 season taught us that ETH tends to favor players he has brought in. Hence, I suspect mount starts.
 
-![Manchester United starting lineup](/red-army-recaps/assets/Starting_lineup.jpg)
+![Manchester United starting lineup](/assets/Starting_lineup.jpg)
