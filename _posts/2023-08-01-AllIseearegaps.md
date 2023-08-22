@@ -7,7 +7,7 @@ For years, I've remained a devoted supporter of Manchester United, enduring disa
 
 The image below is what I suspect our starting 11 is going to look like. As of writing this article, Amrabat is not yet a united player. There is case to be made for Eriksen starting over Mount. The 2022 season taught us that ETH tends to favor players he has brought in. Hence, I suspect mount starts.
 
-![Manchester United starting lineup](./red-army-recaps/assets/Starting_lineup.jpg)
+![Manchester United starting lineup](./assets/Starting_lineup.jpg)
 
 The best way to analyze this team is to think about the key areas of problems we had last year and if we've filled them. 
 
@@ -29,7 +29,7 @@ In recent years, Manchester United has been acquiring players who specialize in 
 
 Eriksen possesses a unique skill in connecting the play from deeper areas to the final third. An illustrative moment of this ability was his line-breaking pass against Arsenal, which resulted in Antony's first goal for Manchester United.
 
-![Eriksen passing between the lines](./red-army-recaps/assets/eriksen&#32;magic.jpg)
+![Eriksen passing between the lines](./assets/eriksen&#32;magic.jpg)
 
 However, his individual defending skills, especially in one-on-one situations, have raised concerns. He often gets bypassed easily and appeared fatigued during the latter part of the season. Fred and McTominay, who filled in for him, present a significant decline in quality. McTominay tends to stick closely to his assigned marker, even if the opposing player creates space. McTominay can sometimes get caught behind an opponent, preventing him from freeing up. All this to say, we need a box-to-box. Eriksen played as a 'free' 8 for most parts, but we saw what happens when we don't have a defensive 8 against big teams. Therefore, we require a midfielder who possesses the ability to defend effectively while also contributing to the team's link-up play.
 
@@ -51,7 +51,7 @@ The right side of Manchester United's lineup is a significant concern for me. Va
 
 AWB's prowess in short passing tends to be overlooked, although it often involves lateral movements or delivering the ball to Antony when he's retreating towards United's goal. In my observation, AWB rarely attempts to clip a pass over the top to Antony. I'd argue that Antony's dribbling ability isn't as exceptional as some might think. While he occasionally displays acceleration that lets him bypass a defender, he lacks the speed required to create significant separation. Additionally, his decision-making tends to lead to turnovers rather than successful plays, a factor that compounds the issue.
 
-![starting 11 gaps](./red-army-recaps/assets/gaps.jpg)
+![starting 11 gaps](./assets/gaps.jpg)
 
 In the English Premier League (EPL), swift ball movement is crucial to prevent opposition teams from doubling up on the wingers. Antony at Ajax benefited from fullbacks underlapping to draw one of the defenders, thereby opening up space for him to cut inside and take shots. However, AWB and Dalot don't employ this tactic effectively. Dalot, although often praised for his ball skills, can sometimes overhit his crosses. Yet, his remarkable cross to Bruno against Southampton stands out. While he provides a superior ball-playing option, his defensive capabilities are debatable. On the other hand, both AWB and Dalot occasionally lose focus, leaving the back post vulnerable. It's possible to make the case that Mount's strengths might come to the fore when he underlaps, but then the question arises: wasn't he initially positioned as an 8? What is he doing there? And if he does end up in that underlapping role, will Bruno exhibit the discipline to temporarily assume a deeper position on the opposite side, enabling Casemiro to move towards Mount and compact the play in case of a turnover? I hold reservations about this scenario. Bruno tends to adopt aggressive positions, and any instance of possession loss could potentially leave us exposed to counterattacks.
 
@@ -62,11 +62,15 @@ Rashford's performance can be astonishing when he's at his best. However, on off
 This brings to light an area where Hojlund might need refinement. Martial excels in linking up play, something that could greatly benefit our attacking dynamics.
 
 <h2>Shape in possession</h2>
-This is what I suspect we will look like in possession.
+This is how I anticipate our setup during possession. For the sake of illustration, let's focus on Antony who, in my analysis, is currently the potential weak link in our attack.
+
+When Antony has the ball, I envision AWB making an underlapping run to draw attention from the central midfielder or the left winger who is likely to double up on Antony. This movement should prompt Mount to shift outward slightly, allowing Casemiro to maintain his central position. This setup offers Antony three viable options. If the left winger or central midfielder fails to track AWB, Antony can either play a pass to AWB, or cut inside to pick a pass or shoot, or send the ball to Mount and then move into a more central position while AWB goes wide again. This rotation of positions provides multiple alternatives.
+
+In the event of possession loss, Antony would backtrack, Mount would already be positioned deeper, and Casemiro would be central. AWB, on the other hand, would rapidly transition back to a defensive position.
 
 Situation 1            |  Situation 2
 :-------------------------:|:-------------------------:
-![s1](./red-army-recaps/assets/situation_1.jpg)  |  ![s2](./red-army-recaps/assets/situation_2.jpg)
+![s1](./assets/situation_1.jpg)  |  ![s2](./assets/situation_2.jpg)
 
 <h2>Final Thoughts</h2>
 This transfer window has proven to be quite underwhelming. We've brought in an injured striker, made a significant goalkeeper acquisition – a move that I'd argue wasn't urgently needed – and secured a number 10 to play as an 8, while Amrabat, who could have been a more fitting option, remains on the sidelines. The midfield seems to be a potential weak point. Mount will need to adjust, and ETH will likely need to adapt his strategies accordingly. It's worth noting that these might not have been ETH's first choices. The absence of a proper number 8 might pose challenges for us this season. Additionally, the thought of selling Maguire and acquiring a right-sided center-back with strong ball-playing abilities is necessary. Rating this window, I'd give it a 5/10, especially when considering what Chelsea has managed to accomplish.
