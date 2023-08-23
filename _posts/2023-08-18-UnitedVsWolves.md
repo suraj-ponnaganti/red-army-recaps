@@ -105,3 +105,5 @@ The midfield situation remains uncertain, particularly the use of two number 10s
 In the last game, Garnacho, Antony, Rashford, Mount, and Bruno struggled. Although I'd like to mention Martinez and Casemiro, Martinez's injury recovery and Casemiro's extensive ground coverage need consideration.
 
 For the next match, I expected ETH might reintroduce Eriksen to the midfield. While Pellistri's starting seems unlikely, I'm hopeful. A run of games for Sancho in the False 9 role could be intriguing, acknowledging that he might not function as an out-and-out 9. The idea is to optimize Rashford, our best player, in his preferred position.
+
+Based on what i've heard and read, Mount is a player who is tactically sound and understands positioning well. I do like him as a player and believe he has tons of talent. He needs to be slowly integrated into this role. 
