@@ -23,6 +23,7 @@ Considering Manchester United's playing dynamics, a false 9 like Harry Kane seem
 The recent addition of Hojlund has sparked curiosity, though with certain reservations. While my exposure to his performances is limited, highlights indicate his preference for occupying wider areas and then carrying the ball inward. However, Hojlund's ability to drop into midfield and link-up play is promising and could be honed under ETH's coaching. Enhancing his link-up play is essential; his current pass completion rate stands at around 73%, ranking in the 42nd percentile for passes and 53rd percentile for expected assists. However, when combining his expected non-penalty goals and expected assists, he ranks in the 70th percentile.
 
 For this section, I sourced my heat maps from [here](https://www.sofascore.com/player/rasmus-hojlund/1086417)
+
 Rasmus Hojlund            |  Erling Haaland
 :-------------------------:|:-------------------------:
 ![s1](/red-army-recaps/assets/hojlund.jpg)  |  ![s2](/red-army-recaps/assets/haaland.jpg)
