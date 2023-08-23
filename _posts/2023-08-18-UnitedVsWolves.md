@@ -39,7 +39,7 @@ The image shows the actual unfolding of the situation. In this instance, Antony 
 
 It's evident that Antony's decision-making capabilities need refinement, as this situation underscores.
 
-![United waster chance](/red-army-recaps/assets/match_week_1/united_wasted_chance.jpg)
+![United waster chance](/red-army-recaps/assets/match_week_1/united_wasted_chance_1.jpg)
 
 <h2>Issue with the shape</h2>
 
