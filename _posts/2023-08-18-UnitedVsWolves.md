@@ -1,5 +1,5 @@
 ---
-title: "Manchester United vs Wolves - A 1-0 win that feels like a loss"
+title: "Match week 1: Manchester United vs Wolves - A 1-0 win that feels like a loss"
 date: 2023-08-18
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spurs win 2-0 and did we improve?"
+title: "Match week 2: Spurs win 2-0 and did we improve?"
 date: 2023-08-20
 ---
 
@@ -11,31 +11,31 @@ Spurs enjoyed more possession at 56%, and both teams registered 6 shots on targe
 
 <h2>Spurs' shape</h2>
 
-In this setup, Spurs' RB Pedro Porro and LB Destiny Udogie tuck into the midfield with Yves Bissouma positioned in the center. This arrangement provides them the opportunity to keep Sarr and Maddison higher up the pitch. However, United effectively employed shadow marking on the fullbacks when one of the CBs had possession. Bruno marked Bissouma, Rashford pressed the goalkeeper, cutting passes to the opposite side from the CBs. Mount and Casemiro covered Sarr and Maddison, with Mount often positioned between Sarr and Pedro Porro, ready to apply pressure when needed.
+In this setup, Spurs' RB Pedro Porro and LB Destiny Udogie tuck into the midfield with Yves Bissouma positioned in the center. This arrangement provides them the opportunity to keep Sarr and Maddison higher up the pitch. However, United effectively employed shadow marking on the fullbacks when one of the CBs had possession. Bruno marked Bissouma, Rashford pressed the goalkeeper to keep the play on one side. Mount and Casemiro covered Sarr and Maddison, with Mount often positioned between Sarr and Pedro Porro, ready to apply pressure when needed.
 
 ![s1](/red-army-recaps/assets/spurs_away_wk_2/spurs_shape.jpg) 
 
 <h2>Shadow Marking worked!... almost</h2>
 
-Shadow marking involves pressing a player or positioning yourself between two players to cut off passing lanes. This can be challenging to execute effectively as the player you're marking is likely to move (unless it's McTominay). In the image below, Garnacho demonstrates shadow marking by positioning himself to cut off the passing lane between Romero and Porro, compelling the goalkeeper to pass to Porro. Mount anticipates this movement and quickly applies pressure, leading to a turnover.
+Shadow marking involves pressing a player or positioning yourself between two players to cut off passing lanes. This can be challenging to execute effectively as the player you're marking is likely to move (unless it's McTominay). In the image below, Garnacho is shadow marking by positioning himself to cut off the passing lane between Romero and Porro, compelling the goalkeeper to pass to Porro. Mount anticipates this pass and quickly applies pressure, leading to a turnover.
 
 ![shadow1](/red-army-recaps/assets/spurs_away_wk_2/shadow_1.jpg) 
 
-The turnover leads to a high shot from Antony, which is acceptable. However, I am concerned about Mount's choice to enter the box after winning the ball and passing it to Garnacho. His closeness to Bruno makes it a redundant option, especially considering Garnacho and Antony's occasional carelessness in possession. Mount should adopt a more conservative approach in his runs.
+The turnover leads to a high shot from Antony, which is acceptable. However, I am concerned about Mount's choice to enter the box after winning the ball and passing it to Garnacho. His closeness to Bruno makes it a redundant option, especially considering Garnacho and Antony's carelessness in possession. Mount should adopt a more conservative approach in his runs.
 
 ![shadow2](/red-army-recaps/assets/spurs_away_wk_2/shadow_2.jpg) 
 
 <h2>First promising opportunity</h2>
 
-The scenario depicted in the image below resembles a [chance](https://suraj-ponnaganti.github.io/red-army-recaps/2023/08/18/UnitedVsWolves.html) we had against Wolves. However, images can be deceptive. The space between Mount and the retreating Sarr was rapidly diminishing. Ideally, Antony should have attempted a pass to Mount, even though it might have been a challenging one. This action could have resulted in a 4 vs. 3 advantage for United.
+The scenario shown in the image below resembles a [chance](https://suraj-ponnaganti.github.io/red-army-recaps/2023/08/18/UnitedVsWolves.html) we had against Wolves. However, images can be deceptive. The space between Mount and the retreating Sarr was rapidly diminishing. Ideally, Antony should have attempted a pass to Mount, even though it might have been a challenging one. This action could have resulted in a 4 vs. 3 advantage for United.
 
 ![first chance](/red-army-recaps/assets/spurs_away_wk_2/first_chance.jpg) 
 
-However, he opts to switch it wide to Garnacho. The chosen pass is a lofted cross and placed behind Garnacho. If this was Antony's intended action, then it's a questionable decision. Garnacho possesses speed and there's an available space ahead of him. Mount moves forward, which is acceptable considering Bruno's presence in the midfield. Shaw offers an overlap opportunity, but Garnacho delivers a sloppy pass that gets intercepted, leading to a corner kick.
+However, he opts to switch it wide to Garnacho. The chosen pass is a lofted cross and placed behind Garnacho. Garnacho possesses speed and there's an available space ahead of him. Mount moves forward, which is acceptable considering Bruno's presence in the midfield. Shaw makes an overlaping run, but Garnacho delivers a sloppy pass that gets intercepted, leading to a corner kick.
 
 ![first chance](/red-army-recaps/assets/spurs_away_wk_2/first_chance_2.jpg) 
 
-Shortly after, Antony could have chosen to pass to Bruno for a reset, but he opted to dribble past Bissouma, leading to a loss of possession. Antony's tendency for risky decisions on the ball, as seen in the previous game and last season, might become an issue without a defensively oriented midfielder.
+In a different play, shortly after, Antony could have chosen to pass to Bruno for a reset, but he opted to dribble past Bissouma, leading to a loss of possession. Antony's tendency for risky decisions on the ball, as seen in the previous game and last season, might become an issue without a defensively oriented midfielder.
 
 ![antony](/red-army-recaps/assets/spurs_away_wk_2/antony_careless.jpg) 
 
