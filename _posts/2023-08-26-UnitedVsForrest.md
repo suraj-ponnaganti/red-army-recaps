@@ -47,30 +47,26 @@ Rashford once again drives to the dead ball line and gets brought down by the Fo
 
 <h2>Midfield worked better</h2>
 
+The heatmap below highlights where players were most active on the field. The heatmap for Bruno against Forest might be a bit misleading. However, Bruno mainly operated from the right side, aiding Antony who had a notably improved performance. United earned 11 corners, with Bruno often taking them. We also played a more short corners which is why Bruno's heatmap looks like that. Certainly, the heatmap unmistakably illustrates Bruno's positioning on the right side during the match against Forest. In contrast, his distribution across both sides was more balanced in the game against Wolves.
+
+Casemiro also was more central and deeper against Forest than he was against Wolves. 
 
 Player            |  vs. Wolves | vs. Forest				
 :-------------------------:|:-------------------------:|:-------------------------:
 Bruno|![bruno](/red-army-recaps/assets/match_week_3/bruno_wolves.jpg) | ![bruno](/red-army-recaps/assets/match_week_3/bruno_forest.jpg)|
 Casemiro|![cas](/red-army-recaps/assets/match_week_3/casemiro_wolves.jpg) | ![cas](/red-army-recaps/assets/match_week_3/casemiro_forest.jpg)|
 
+Eriksen's impact was instrumental in achieving this setup. In the Wolves match, Mount's positioning appeared scattered, whereas Eriksen's positioning against Forest was notably left-oriented. He seamlessly shifted into a central role when Bruno occupied the right side. His touches were primarily outside the box, indicating his role in distributing play. Eriksen's controlled ball movement facilitated team involvement and cohesion.
 
-Mount(Wolves)            |  Eriksen (Forest)			
+Mount (Wolves)            |  Eriksen (Forest)			
 :-------------------------:|:-------------------------:|
 ![mount](/red-army-recaps/assets/match_week_3/mount_wolves.jpg) | ![e](/red-army-recaps/assets/match_week_3/eriksen_forest.jpg)|
 
 
+<h2>Final Thoughts</h2>
 
+I was considerably pleased with this midfield trio, and the game exhibited better-controlled possession. Our ball retention also improved significantly, with Antony displaying better composure under possession. Notably, both Antony and Rashford actively attempted crosses, with Antony's right-footed cross creating a noteworthy chance. 
 
+Eriksen's role as a number 8 appears well-suited for matches against teams employing deep defensive blocks. However, his defensive vulnerabilities might make him a less ideal choice against top 6 opponents. It's evident that we are in dire need of a defensively adept number 8 who possesses speed, strength, and adeptness in progressive passing.
 
-
-
-
-
-
-
-
-
-
-
-
-
+I believe Forest were not prepared to be up 2 goals at Old Trafford and weren't prepared to defend for the rest of the game. However, we cannot end up in this situation against teams like West Ham who are great at sustaining pressure for long periods of time.
