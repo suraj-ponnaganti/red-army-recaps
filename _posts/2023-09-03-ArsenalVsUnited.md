@@ -1,6 +1,6 @@
 ---
 title: "Match week 4: Arsenal vs Manchester United: 6 points from 12, this is bad!"
-date: 2023-08-18
+date: 2023-09-03
 ---
 
 Just before Garnacho's offside goal, I fired off a message to my friend, brimming with frustration: "This feels like a 3-1 loss for United." Then, Garnacho netted one, and I found myself under fire from my friend, accused of being the pessimistic fan. Surprisingly, I welcomed it, but alas, it was ruled offside. Eric Ten Hag, for the time being, shouldn't shoulder the blame; it's the players who aren't delivering on his expectations. To cap it off, we concluded the game with Harry Maguire and Jonny Evans! It's utterly exasperating... My heart goes out to ETH.
