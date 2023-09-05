@@ -1,6 +1,6 @@
 ---
 title: "Match week 4: Arsenal vs Manchester United: 6 points from 12, this is bad!"
-date: 2023-08-18
+date: 2023-09-03
 ---
 
 Just before Garnacho's offside goal, I fired off a message to my friend, brimming with frustration: "This feels like a 3-1 loss for United." Then, Garnacho netted one, and I found myself under fire from my friend, accused of being the pessimistic fan. Surprisingly, I welcomed it, but alas, it was ruled offside. Eric Ten Hag, for the time being, shouldn't shoulder the blame; it's the players who aren't delivering on his expectations. To cap it off, we concluded the game with Harry Maguire and Jonny Evans! It's utterly exasperating... My heart goes out to ETH.
@@ -61,7 +61,7 @@ Onana possesses undeniable potential, but his acquisition appears to be a soluti
 
 ![Goal](/red-army-recaps/assets/match_week_4/corner_tactics.jpg)  
 
-TaTactically, our approach to defending corners employs zonal marking. We aim to keep one center-back and a couple of other players free to track runners. In this situation, Evans should immediately signal to Maguire about the potential incoming run, given the presence of four players in that area. Maguire's responsibility is to effectively mark that run. The inherent risk lies in the fact that if Evans doesn't follow the player, Gabriel could build momentum and potentially out-jump Maguire. Therefore, Maguire needs to impede that run, and it falls on him to do so, as Evans must focus on marking the back post.
+Tactically, our approach to defending corners employs zonal marking. We aim to keep one center-back and a couple of other players free to track runners. In this situation, Evans should immediately signal to Maguire about the potential incoming run, given the presence of four players in that area. Maguire's responsibility is to effectively mark that run. The inherent risk lies in the fact that if Evans doesn't follow the player, Gabriel could build momentum and potentially out-jump Maguire. Therefore, Maguire needs to impede that run, and it falls on him to do so, as Evans must focus on marking the back post.
 
 <h2>In possession issues</h2>
 
@@ -77,7 +77,7 @@ Once again, Martinez finds himself in a situation with limited passing options i
 
 ![p2](/red-army-recaps/assets/match_week_4/lack_of_mov_3.jpg)
 
-A crucial observation in all these images is the absence of active running by United players. Instead of running into space, they appear to be walking. Ideally, you'd want players "arriving" into space to receive passes effectively. This includes having at least one player making a deep run to receive a ball over the top and another player making a run into the midfield half spaces to provide passing options and exploit the available areas effectively. Eric Ten Hag has his work cut out..... The team's utilization of the midfield half spaces is currently lacking, and building effectively with a 3-1-6 shape requires someone to take the initiative and drop into those crucial areas. This adjustment is essential for optimizing their tactical approach.
+A crucial observation in all these images is the absence of active running by United players. Instead of running into space, they appear to be walking. Ideally, you'd want players "arriving" into space to receive passes effectively. This includes having at least one player making a deep run to receive a ball over the top and another player making a run into the midfield half spaces to provide passing options and exploit the available areas effectively. Eric Ten Hag has his work cut out..... The team's utilization of the midfield half spaces is currently lacking, and building effectively with a 3-1-6 shape requires someone to take the initiative and drop into those crucial areas. This adjustment is essential for optimizing their tactical approach. I have no clue how this 3-1-6 works without someone dropping into the half spaces....
 
 <h2>Final thoughts (rant) </h2>
 
